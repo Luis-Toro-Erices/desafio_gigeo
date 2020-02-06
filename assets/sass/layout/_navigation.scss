@@ -1,0 +1,26 @@
+nav{
+    font-size: 1rem;
+    background: #ffffff;
+    width: 100%;
+
+}    
+.logo__gigeo{
+    display: flex;
+    align-content: left;
+    position: relative;
+}
+
+.empresa1{
+    font: $futura;
+    font-weight: 500 ;
+    font-size: 35px;
+}
+
+.empresa2{
+    position:absolute;
+    left: 105px;
+    top:5px;
+    font: $futura;
+    font-size: 10px;
+   
+}
